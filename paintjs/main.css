@@ -1,0 +1,11 @@
+body {
+  background: #dddddd;
+  margin: 10px;
+  font-family: 'Nova Mono', monospace;
+}
+
+#canvas {
+  background: #ffffff;
+  border: 1px inset #000000;
+  cursor: crosshair;
+}
